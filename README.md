@@ -1,6 +1,9 @@
 # **Herramienta de Calidad de Datos para Ingenieros de Petróleo**  
 **Fase 1: Preparación y Limpieza de Datos**  
 
+<img width="1205" height="892" alt="image" src="https://github.com/user-attachments/assets/64a888b6-2b63-4de7-b1df-2d4c2b9e2281" />
+
+
 ---
 
 ## 📌 **Descripción General**
